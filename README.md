@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pavanjpk518
-- 👀 I’m interested in software engineering and cyber security
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects for my career growth
 - 📫 How to reach me 
 
